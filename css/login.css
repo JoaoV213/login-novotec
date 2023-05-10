@@ -1,0 +1,38 @@
+img{
+
+margin-left: 630px;
+
+}
+
+button{
+height: 50px;
+width: 400px;
+background-color: rgb(24, 138, 75);
+margin-left: 50px;
+cursor: pointer;
+}
+
+input{
+height: 45px;
+width: 500px;
+display: inline-block;
+border: 1px solid;
+box-sizing: border-box;
+}
+div{
+
+margin-left: 680px;
+
+}
+
+h2{
+
+margin-left: 680px;
+
+}
+
+h3{
+
+margin-left: 680px;
+
+}
